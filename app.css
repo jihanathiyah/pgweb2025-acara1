@@ -1,0 +1,36 @@
+h1 {
+            color: rgba(20, 20, 255, 0.519);
+        }
+
+        h3 {
+            color: rgba(237, 100, 127, 0.86);
+        }
+
+        #p1 {
+            text-align: justify;
+            text-indent: 20pt;
+            color: rgba(255, 125, 125, 0.929);
+        }
+    
+        .p2 {
+            text-align: justify;
+            text-indent: 20pt;
+            color: rgba(151, 125, 255, 0.851);
+        }
+
+        /* Style Table */
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
